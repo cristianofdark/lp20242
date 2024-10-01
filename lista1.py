@@ -3,7 +3,8 @@ Exercícios sobre os comandos básicos em Python
 '''
 
 #1. Faça um programa que imprima o seu nome.
-
+def q1():
+    print('João Paulo')
 #2. Faça um programa que imprima o produto dos valores 30 e 27.
 
 #3. Faça um programa que imprima a média aritmética entre os números 5, 8, 12.
@@ -80,3 +81,5 @@ Exercícios sobre os comandos básicos em Python
 #20. Faça um programa que efetue a apresentação do valor da conversão
 #    em real (R$) de um valor lido em dólar (US$). Para isso, será
 #    necessário também ler o valor da cotação do dólar.
+q1()
+python3 nome_do_arquivo.py
